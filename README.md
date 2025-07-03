@@ -11,7 +11,7 @@ A minimal and responsive task management application built with React, Bootstrap
 
 ### 📸 Live Demo
 
-🌐 [View the app](https://your-demo-link.com)  
+🌐 [View the app](https://task-manager-vishal-yadav.netlify.app/)  
 > Replace this link with your deployed site
 
 ### 🛠 Tech Stack
